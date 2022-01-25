@@ -25,8 +25,20 @@ const movieReviews: {
     "poor acting": "-",
     "great acting. a good movie": "+",
     "bad acting. poor movie": "-",
+    "I will kill the actors": "-",
+    "I will kill the director": "-",
+    "Movie makes me want to die": "-",
+    "Movie makes me want to live": "+",
+    "makes no sense": "-",
+    "makes perfect sense": "+",
+    "I've had mosquito bites that were more passionate than this undead, unrequited, and altogether unfun pseudo-romantic riff on 'Romeo and Juliet." : "-",
     "I've been a fan of Christopher Nolan for a long time, ever since Memento. The Prestige is an entertaining thriller from writer/director Christopher Nolan the man behind films like Memento, Insomnia, Batman Begins, and The Dark Knight. The Prestige is about two magicians Robert Angier and Alfred Borden whose friendship turns into an intense rivalry that leads them on a life long battle for supremacy. The Prestige is absolutely one of the best movies I've ever watched in my life. Christopher Nolan, never fails to amazes me. The unpredictability of the movie is very rare now in movies, a lot of plot twists, including Tesla. Christian Bale and Hugh Jackman delivers with their astonishing performances, besides of course the great Michael Caine. There will never be a movie alike, and I'll surely recommend this movie for everybody." : "+",
-    "I love magic, I feel that it exists within our world everyday, and everywhere around us. I absolutely loved the movie, the climax built all the way up until the end and it leaves you with a bang! It takes you back in time, and is able to give you insight on how magic may have worked during that time period, simply an idea. My favorite part about the whole movie is how they incorporated Tesla. For a moment because of Tesla it takes you outside of reality. The main plot was about how two magicians seek revenge from one another until the very end. The twist about the whole thing was how they both had been cloned, they had me fooled until the end, you'll be surprised if you watch! Definitely worth it. This is one of my first movie reviews, I can't wait to write more so I can improve my writing and opinions, and so I can become more detailed. Excited for this new journey. Hopefully this review helps you:)": "+"
+    "I love magic, I feel that it exists within our world everyday, and everywhere around us. I absolutely loved the movie, the climax built all the way up until the end and it leaves you with a bang! It takes you back in time, and is able to give you insight on how magic may have worked during that time period, simply an idea. My favorite part about the whole movie is how they incorporated Tesla. For a moment because of Tesla it takes you outside of reality. The main plot was about how two magicians seek revenge from one another until the very end. The twist about the whole thing was how they both had been cloned, they had me fooled until the end, you'll be surprised if you watch! Definitely worth it. This is one of my first movie reviews, I can't wait to write more so I can improve my writing and opinions, and so I can become more detailed. Excited for this new journey. Hopefully this review helps you:)": "+",
+    "The more one sees the main characters, the less appealing they become. Luke Skywalker is a whiner, Han Solo a sarcastic clod, Princess Leia a nag, and C-3PO just a drone." : "-",
+    "It has dwarfs, music, Technicolor, freak characters, and Judy Garland. It can't be expected to have a sense of humor as well, and as for the light touch of fantasy, it weighs like a pound of fruitcake soaking wet." : "-",
+    "If you can keep both eyes open through its whole three-hour length you're a better man than I am.": "-",
+    "It's a measure of how the film operates that not once do we feel particular sympathy for any of the shark's victims… It puts good actors to the test. They have to work very hard just to appear alive.": "-",
+
 }
 
 
